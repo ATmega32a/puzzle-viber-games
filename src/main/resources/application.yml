@@ -1,0 +1,17 @@
+server:
+#  port: 8080
+  port: 8000
+#  ssl:
+#    enabled: true
+#    key-alias: test
+#    key-store: "path/to/cert.jks"
+#    key-store-password: "password"
+
+application.spring-viber-bot:
+  auth-token: "4cc06dce6d67d03b-6c1a2c07181520d2-d9fd9dd7d3115509"
+#  webhook-url: "https://robot.cellmon.ru:88"
+  webhook-url: "https://6606-195-3-247-251.eu.ngrok.io"
+  name: "ViberGames"
+  avatar: "https://c1.klipartz.com/pngpicture/558/174/sticker-png-educational-rubiks-cube-puzzle-game-puzzle-cube-professors-cube-toy-world-cube-association-thumbnail.png"
+#
+#logging.level.com.viber: DEBUG
