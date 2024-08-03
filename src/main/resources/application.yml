@@ -8,7 +8,7 @@ server:
 #    key-store-password: "password"
 
 application.spring-viber-bot:
-  auth-token: "4cc06dce6d67d03b-6c1a2c07181520d2-d9fd9dd7d3115509"
+  auth-token: "your-bot-token"
 #  webhook-url: "https://robot.cellmon.ru:88"
   webhook-url: "https://6606-195-3-247-251.eu.ngrok.io"
   name: "ViberGames"
