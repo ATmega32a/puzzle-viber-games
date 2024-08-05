@@ -1,6 +1,6 @@
 server:
 #  port: 8080
-  port: 8000
+  port: 8008
 #  ssl:
 #    enabled: true
 #    key-alias: test
